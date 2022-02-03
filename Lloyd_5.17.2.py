@@ -1,3 +1,6 @@
+#Lloyd_5.17.2.py
+"""Display the results of rolling a six-sided die in a bar graph"""
+
 import matplotlib.pyplot as plt
 import numpy as np
 import random
