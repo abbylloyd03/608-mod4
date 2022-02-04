@@ -1,5 +1,5 @@
 #Lloyd_6.2.6.py
-"""Using a dictionary to represent an instructor's grade book."""
+"""Using a dictionary to represent an instructor's grade book. (Dietel Intro to Python)"""
 
 grade_book = {
     'Susan': [92, 85, 100],

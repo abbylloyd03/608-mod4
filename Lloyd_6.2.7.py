@@ -1,5 +1,5 @@
 # Lloyd_6.2.7, Abby Lloyd
-"""Tokenizing a string and counting unique words."""
+"""Tokenizing a string and counting unique words. (Dietel Intro to Python)"""
 
 text = ('this is sample text with several words '
         'this is more sample text with some different words')

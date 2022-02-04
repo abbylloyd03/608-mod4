@@ -1,5 +1,5 @@
 #Lloyd_5.17.2.py
-"""Display the results of rolling a six-sided die in a bar graph"""
+"""Display the results of rolling a six-sided die in a bar graph. (Dietel Intro to Python)"""
 
 import matplotlib.pyplot as plt
 import numpy as np
