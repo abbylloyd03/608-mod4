@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#Lloyd_mod4_bonus.py
+"""Read an article from the web and count the words."""
 # In[1]:
 
 
